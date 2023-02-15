@@ -1,0 +1,8 @@
+Requirements and Installation Process
+
+Install python = 3.11.2 (latest) 
+Enter the virtualenv via env/Scripts/activate (INCASE virtualenv not found->Install virtualenv in the project folder. virtualenv = pip install virtualenv.)
+Install flask = pip install Flask
+Open terminal and run 'python app.py'
+First run the base endpoint as it will create database connection and the table.
+Play around with the APIs with postman 
