@@ -1,3 +1,2 @@
-python = 3.11.2 (latest)
-Flask = 2.2.2
-SQLAlchemy = 2.0.3
+Flask==1.1.2
+flask_sqlalchemy==3.0.3
